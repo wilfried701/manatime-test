@@ -1,11 +1,12 @@
-import { Box } from "@chakra-ui/react"
+import { Box } from "@chakra-ui/react";
+import AbsenceTable from "../molecules/AbsenceTable";
 
 const AbsencePage = () => {
   return (
-    <Box>
-        Absence Page
+    <Box p="30px">
+      <AbsenceTable />
     </Box>
-  )
-}
+  );
+};
 
-export default AbsencePage
+export default AbsencePage;
