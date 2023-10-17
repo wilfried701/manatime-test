@@ -9,8 +9,8 @@ type DefaultLayoutProps = {
 
 const DefaultLayout = ({ children }: DefaultLayoutProps) => {
   return (
-    <Flex>
-      <Box>
+    <Flex h="100vh" maxH="100vh">
+      <Box h="full">
         <SideBar />
       </Box>
       <Box>
