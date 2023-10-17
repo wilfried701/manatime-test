@@ -8,17 +8,33 @@ export const elements = [
   {
     item: "Mon espace",
     icon: MySpaceIcon,
-    subItems: [],
+    subItems: [
+      "Mes congés",
+      "Mes absences",
+      "Mes soldes",
+      "Mes compteurs",
+      "Mes indicateurs",
+    ],
   },
   {
     item: "Validation",
     icon: ValidationIcon,
-    subItems: [],
+    subItems: [
+      "Validation des congés",
+      "Validation des absences",
+      "Validation des soldes",
+      "Validation des compteurs",
+      "Validation des indicateurs",
+    ],
   },
   {
     item: "Indicateurs",
     icon: IndicatorIcon,
-    subItems: [],
+    subItems: [
+      "Indicateurs de gestion",
+      "Indicateurs de suivi",
+      "Indicateurs de pilotage",
+    ],
   },
   {
     item: "Soldes",

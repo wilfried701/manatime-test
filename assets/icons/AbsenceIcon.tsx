@@ -13,8 +13,8 @@ const AbsenceIcon = ({ ...rest }: SVGProps<SVGSVGElement>) => {
         fill="url(#paint0_linear)"
       />
       <path
-        fill-rule="evenodd"
-        clip-rule="evenodd"
+        fillRule="evenodd"
+        clipRule="evenodd"
         d="M15.0391 27.583C10.5197 28.1733 7.3682 29.9259 5.72786 30.846C4.61855 31.4682 3.83903 32.0355 3.33351 32.5449C2.82474 33.0575 2.62745 33.4767 2.60278 33.8048C2.57943 34.1156 2.7054 34.4261 3.04122 34.7486C3.38392 35.0777 3.92172 35.3932 4.64734 35.683C7.56344 36.8477 13.0051 37.4064 18.5589 37.3764C24.1075 37.3464 29.6608 36.7295 32.7882 35.6029C33.5676 35.3222 34.1717 35.0182 34.5833 34.7005C34.9972 34.381 35.171 34.0843 35.1965 33.821C35.2216 33.5621 35.1139 33.2213 34.7026 32.7863C34.2913 32.3512 33.6137 31.8641 32.6059 31.3321C25.4596 27.5605 19.5529 26.9935 15.0391 27.583ZM14.9355 26.7903C19.6178 26.1787 25.6908 26.7783 32.9795 30.6251C34.0232 31.176 34.7871 31.7115 35.2841 32.2372C35.7812 32.763 36.0486 33.3213 35.9928 33.898C35.9374 34.4703 35.5743 34.9457 35.0723 35.3333C34.5679 35.7227 33.877 36.0606 33.0595 36.3551C29.7992 37.5295 24.1334 38.1458 18.5632 38.1759C12.9981 38.206 7.42118 37.6519 4.35045 36.4254C3.57936 36.1174 2.93494 35.7553 2.48696 35.3251C2.0321 34.8884 1.75893 34.3582 1.80503 33.7449C1.84982 33.1492 2.19059 32.5612 2.76552 31.9819C3.34371 31.3993 4.19354 30.7898 5.3363 30.1488C6.9974 29.217 10.2587 27.401 14.9355 26.7903Z"
         fill="#31305B"
       />
@@ -23,56 +23,56 @@ const AbsenceIcon = ({ ...rest }: SVGProps<SVGSVGElement>) => {
         fill="#EEC259"
       />
       <path
-        fill-rule="evenodd"
-        clip-rule="evenodd"
+        fillRule="evenodd"
+        clipRule="evenodd"
         d="M30.6999 4.01577C29.4396 4.01577 28.418 5.03676 28.418 6.29622C28.418 7.55568 29.4396 8.57667 30.6999 8.57667C31.9601 8.57667 32.9817 7.55568 32.9817 6.29622C32.9817 5.03676 31.9601 4.01577 30.6999 4.01577ZM27.618 6.29622C27.618 4.5952 28.9978 3.21625 30.6999 3.21625C32.4019 3.21625 33.7817 4.5952 33.7817 6.29622C33.7817 7.99724 32.4019 9.37619 30.6999 9.37619C28.9978 9.37619 27.618 7.99724 27.618 6.29622Z"
         fill="#31305B"
       />
       <path
-        fill-rule="evenodd"
-        clip-rule="evenodd"
+        fillRule="evenodd"
+        clipRule="evenodd"
         d="M30.6998 0C30.9207 0 31.0998 0.178979 31.0998 0.39976V1.47184C31.0998 1.69263 30.9207 1.87161 30.6998 1.87161C30.4789 1.87161 30.2998 1.69263 30.2998 1.47184V0.39976C30.2998 0.178979 30.4789 0 30.6998 0Z"
         fill="#31305B"
       />
       <path
-        fill-rule="evenodd"
-        clip-rule="evenodd"
+        fillRule="evenodd"
+        clipRule="evenodd"
         d="M30.6998 10.7208C30.9207 10.7208 31.0998 10.8998 31.0998 11.1206V12.1927C31.0998 12.4135 30.9207 12.5924 30.6998 12.5924C30.4789 12.5924 30.2998 12.4135 30.2998 12.1927V11.1206C30.2998 10.8998 30.4789 10.7208 30.6998 10.7208Z"
         fill="#31305B"
       />
       <path
-        fill-rule="evenodd"
-        clip-rule="evenodd"
+        fillRule="evenodd"
+        clipRule="evenodd"
         d="M26.2443 1.8431C26.4005 1.68698 26.6538 1.68698 26.81 1.8431L27.5716 2.60428C27.7278 2.7604 27.7278 3.01351 27.5716 3.16963C27.4154 3.32574 27.1621 3.32574 27.0059 3.16963L26.2443 2.40845C26.0881 2.25233 26.0881 1.99922 26.2443 1.8431Z"
         fill="#31305B"
       />
       <path
-        fill-rule="evenodd"
-        clip-rule="evenodd"
+        fillRule="evenodd"
+        clipRule="evenodd"
         d="M33.8285 9.42275C33.9847 9.26664 34.2379 9.26664 34.3941 9.42275L35.1558 10.1839C35.312 10.34 35.312 10.5932 35.1558 10.7493C34.9996 10.9054 34.7463 10.9054 34.5901 10.7493L33.8285 9.9881C33.6723 9.83198 33.6723 9.57887 33.8285 9.42275Z"
         fill="#31305B"
       />
       <path
-        fill-rule="evenodd"
-        clip-rule="evenodd"
+        fillRule="evenodd"
+        clipRule="evenodd"
         d="M24.3998 6.29612C24.3998 6.07534 24.5789 5.89636 24.7998 5.89636H25.8725C26.0934 5.89636 26.2725 6.07534 26.2725 6.29612C26.2725 6.5169 26.0934 6.69588 25.8725 6.69588H24.7998C24.5789 6.69588 24.3998 6.5169 24.3998 6.29612Z"
         fill="#31305B"
       />
       <path
-        fill-rule="evenodd"
-        clip-rule="evenodd"
+        fillRule="evenodd"
+        clipRule="evenodd"
         d="M35.1273 6.29612C35.1273 6.07534 35.3063 5.89636 35.5273 5.89636H36.6C36.8209 5.89636 37 6.07534 37 6.29612C37 6.5169 36.8209 6.69588 36.6 6.69588H35.5273C35.3063 6.69588 35.1273 6.5169 35.1273 6.29612Z"
         fill="#31305B"
       />
       <path
-        fill-rule="evenodd"
-        clip-rule="evenodd"
+        fillRule="evenodd"
+        clipRule="evenodd"
         d="M27.5716 9.42275C27.7278 9.57887 27.7278 9.83198 27.5716 9.9881L26.81 10.7493C26.6538 10.9054 26.4005 10.9054 26.2443 10.7493C26.0881 10.5932 26.0881 10.34 26.2443 10.1839L27.0059 9.42275C27.1621 9.26663 27.4154 9.26664 27.5716 9.42275Z"
         fill="#31305B"
       />
       <path
-        fill-rule="evenodd"
-        clip-rule="evenodd"
+        fillRule="evenodd"
+        clipRule="evenodd"
         d="M35.1558 1.8431C35.312 1.99922 35.312 2.25233 35.1558 2.40845L34.3941 3.16963C34.2379 3.32574 33.9847 3.32574 33.8285 3.16963C33.6723 3.01351 33.6723 2.7604 33.8285 2.60428L34.5901 1.8431C34.7463 1.68698 34.9996 1.68698 35.1558 1.8431Z"
         fill="#31305B"
       />
@@ -97,8 +97,8 @@ const AbsenceIcon = ({ ...rest }: SVGProps<SVGSVGElement>) => {
         fill="url(#paint3_linear)"
       />
       <path
-        fill-rule="evenodd"
-        clip-rule="evenodd"
+        fillRule="evenodd"
+        clipRule="evenodd"
         d="M13.8638 30.8201C13.6517 30.767 13.4366 30.8957 13.3833 31.1077C13.3301 31.3198 13.459 31.5348 13.6711 31.5879L21.5668 33.5672C21.5668 33.5672 21.5668 33.5672 21.5668 33.5672C21.779 33.6204 21.9941 33.4917 22.0473 33.2796C22.1005 33.0676 21.9717 32.8526 21.7595 32.7994L13.8638 30.8201ZM21.3722 34.3427L13.4765 32.3634C12.8358 32.2028 12.4467 31.5535 12.6074 30.9132C12.7681 30.2729 13.4178 29.884 14.0585 30.0446L21.9542 32.0239C22.5949 32.1846 22.984 32.8338 22.8233 33.4742C22.6626 34.1145 22.0129 34.5033 21.3722 34.3427Z"
         fill="#31305B"
       />
@@ -107,8 +107,8 @@ const AbsenceIcon = ({ ...rest }: SVGProps<SVGSVGElement>) => {
         fill="url(#paint4_linear)"
       />
       <path
-        fill-rule="evenodd"
-        clip-rule="evenodd"
+        fillRule="evenodd"
+        clipRule="evenodd"
         d="M26.6409 24.8374C26.5427 24.6421 26.3047 24.5632 26.1093 24.6613C25.9138 24.7594 25.8349 24.9973 25.9331 25.1926L28.4611 30.2243C28.5593 30.4197 28.7973 30.4985 28.9928 30.4004C29.1882 30.3023 29.2671 30.0645 29.169 29.8691C29.169 29.8691 29.169 29.8691 29.169 29.8691L26.6409 24.8374ZM27.7462 30.5831L25.2181 25.5514C24.9217 24.9615 25.16 24.2431 25.7503 23.9468C26.3406 23.6506 27.0594 23.8887 27.3558 24.4787L29.8839 29.5103C30.1803 30.1003 29.9421 30.8187 29.3517 31.1149C28.7614 31.4112 28.0426 31.1731 27.7462 30.5831Z"
         fill="#31305B"
       />
@@ -117,8 +117,8 @@ const AbsenceIcon = ({ ...rest }: SVGProps<SVGSVGElement>) => {
         fill="url(#paint5_linear)"
       />
       <path
-        fill-rule="evenodd"
-        clip-rule="evenodd"
+        fillRule="evenodd"
+        clipRule="evenodd"
         d="M11.9787 34.4512L9.90707 33.2559L20.7225 14.5341C21.0528 13.9624 21.7843 13.7665 22.3563 14.0966C22.9284 14.4267 23.1244 15.1577 22.7941 15.7294L11.9787 34.4512ZM10.9999 32.9632L11.6858 33.359L22.1013 15.3297C22.2107 15.1404 22.1458 14.8983 21.9563 14.789C21.7669 14.6797 21.5247 14.7446 21.4154 14.9339C21.4154 14.9339 21.4154 14.9339 21.4154 14.9339L10.9999 32.9632Z"
         fill="#31305B"
       />
@@ -127,8 +127,8 @@ const AbsenceIcon = ({ ...rest }: SVGProps<SVGSVGElement>) => {
         fill="url(#paint6_linear)"
       />
       <path
-        fill-rule="evenodd"
-        clip-rule="evenodd"
+        fillRule="evenodd"
+        clipRule="evenodd"
         d="M20.3517 27.749C20.1395 27.6958 19.9244 27.8245 19.8712 28.0366C19.818 28.2486 19.9468 28.4636 20.159 28.5167L28.7884 30.68C29.0005 30.7331 29.2157 30.6044 29.2689 30.3924C29.3221 30.1803 29.1932 29.9654 28.9811 29.9122C28.9811 29.9122 28.9811 29.9122 28.9811 29.9122L20.3517 27.749ZM28.5938 31.4555L19.9644 29.2922C19.3237 29.1316 18.9345 28.4824 19.0953 27.842C19.256 27.2017 19.9056 26.8128 20.5463 26.9735L29.1757 29.1367C29.8164 29.2973 30.2055 29.9466 30.0448 30.5869C29.8841 31.2272 29.2345 31.6161 28.5938 31.4555Z"
         fill="#31305B"
       />
@@ -137,8 +137,8 @@ const AbsenceIcon = ({ ...rest }: SVGProps<SVGSVGElement>) => {
         fill="white"
       />
       <path
-        fill-rule="evenodd"
-        clip-rule="evenodd"
+        fillRule="evenodd"
+        clipRule="evenodd"
         d="M21.4575 15.661C21.5474 15.5992 21.6587 15.5767 21.7656 15.5989L29.8814 17.2845C30.0051 17.3102 30.1094 17.3928 30.1627 17.5073C30.216 17.6218 30.212 17.7547 30.152 17.8658L23.5039 30.1719C23.4162 30.3342 23.2287 30.4155 23.0501 30.3685L13.8982 27.9608C13.7281 27.9161 13.6072 27.7656 13.6003 27.5899C13.5934 27.4143 13.7022 27.2548 13.8682 27.1968C16.0849 26.4235 17.6557 25.2608 18.8132 23.4899C19.9805 21.7042 20.7461 19.272 21.2894 15.9263C21.3068 15.8186 21.3676 15.7228 21.4575 15.661ZM22.0102 16.4664C21.4636 19.6505 20.689 22.0821 19.483 23.9272C18.4298 25.5385 17.0606 26.6828 15.2737 27.4959L22.9495 29.5153L29.193 17.9581L22.0102 16.4664Z"
         fill="#31305B"
       />
@@ -147,8 +147,8 @@ const AbsenceIcon = ({ ...rest }: SVGProps<SVGSVGElement>) => {
         fill="url(#paint7_linear)"
       />
       <path
-        fill-rule="evenodd"
-        clip-rule="evenodd"
+        fillRule="evenodd"
+        clipRule="evenodd"
         d="M21.4575 15.661C21.5474 15.5992 21.6587 15.5767 21.7656 15.5989L29.8814 17.2845C30.0051 17.3102 30.1094 17.3928 30.1627 17.5073C30.216 17.6218 30.212 17.7547 30.152 17.8658L23.5039 30.1719C23.4162 30.3342 23.2287 30.4155 23.0501 30.3685L13.8982 27.9608C13.7281 27.9161 13.6072 27.7656 13.6003 27.5899C13.5934 27.4143 13.7022 27.2548 13.8682 27.1968C16.0849 26.4235 17.6557 25.2608 18.8132 23.4899C19.9805 21.7042 20.7461 19.272 21.2894 15.9263C21.3068 15.8186 21.3676 15.7228 21.4575 15.661ZM22.0102 16.4664C21.4636 19.6505 20.689 22.0821 19.483 23.9272C18.4298 25.5385 17.0606 26.6828 15.2737 27.4959L22.9495 29.5153L29.193 17.9581L22.0102 16.4664Z"
         fill="#31305B"
       />
@@ -157,8 +157,8 @@ const AbsenceIcon = ({ ...rest }: SVGProps<SVGSVGElement>) => {
         fill="url(#paint8_linear)"
       />
       <path
-        fill-rule="evenodd"
-        clip-rule="evenodd"
+        fillRule="evenodd"
+        clipRule="evenodd"
         d="M21.2114 36.6965L19.1126 35.5495L29.613 16.3577C29.9299 15.7785 30.6567 15.5657 31.2362 15.8824C31.8158 16.1991 32.0287 16.9254 31.7118 17.5047L21.2114 36.6965ZM20.1984 35.2316L20.8933 35.6114L31.0099 17.1211C31.1148 16.9293 31.0443 16.6888 30.8524 16.5839C30.6605 16.4791 30.4199 16.5495 30.3149 16.7413L20.1984 35.2316Z"
         fill="#31305B"
       />
@@ -171,8 +171,8 @@ const AbsenceIcon = ({ ...rest }: SVGProps<SVGSVGElement>) => {
           y2="38.1771"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="white" />
-          <stop offset="1" stop-color="#EEC259" />
+          <stop stopColor="white" />
+          <stop offset="1" stopColor="#EEC259" />
         </linearGradient>
         <linearGradient
           id="paint1_linear"
@@ -182,8 +182,8 @@ const AbsenceIcon = ({ ...rest }: SVGProps<SVGSVGElement>) => {
           y2="4.95939"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#346DF1" />
-          <stop offset="1" stop-color="#4436C3" />
+          <stop stopColor="#346DF1" />
+          <stop offset="1" stopColor="#4436C3" />
         </linearGradient>
         <linearGradient
           id="paint2_linear"
@@ -193,8 +193,8 @@ const AbsenceIcon = ({ ...rest }: SVGProps<SVGSVGElement>) => {
           y2="4.95939"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#346DF1" />
-          <stop offset="1" stop-color="#4436C3" />
+          <stop stopColor="#346DF1" />
+          <stop offset="1" stopColor="#4436C3" />
         </linearGradient>
         <linearGradient
           id="paint3_linear"
@@ -204,8 +204,8 @@ const AbsenceIcon = ({ ...rest }: SVGProps<SVGSVGElement>) => {
           y2="31.1054"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#F9DD7A" />
-          <stop offset="1" stop-color="#FFFCF2" />
+          <stop stopColor="#F9DD7A" />
+          <stop offset="1" stopColor="#FFFCF2" />
         </linearGradient>
         <linearGradient
           id="paint4_linear"
@@ -215,8 +215,8 @@ const AbsenceIcon = ({ ...rest }: SVGProps<SVGSVGElement>) => {
           y2="24.6598"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#F9DD7A" />
-          <stop offset="1" stop-color="#FFFCF2" />
+          <stop stopColor="#F9DD7A" />
+          <stop offset="1" stopColor="#FFFCF2" />
         </linearGradient>
         <linearGradient
           id="paint5_linear"
@@ -226,8 +226,8 @@ const AbsenceIcon = ({ ...rest }: SVGProps<SVGSVGElement>) => {
           y2="33.1667"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#F9DD7A" />
-          <stop offset="1" stop-color="#FFFCF2" />
+          <stop stopColor="#F9DD7A" />
+          <stop offset="1" stopColor="#FFFCF2" />
         </linearGradient>
         <linearGradient
           id="paint6_linear"
@@ -237,8 +237,8 @@ const AbsenceIcon = ({ ...rest }: SVGProps<SVGSVGElement>) => {
           y2="28.0338"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#F9DD7A" />
-          <stop offset="1" stop-color="#FFFCF2" />
+          <stop stopColor="#F9DD7A" />
+          <stop offset="1" stopColor="#FFFCF2" />
         </linearGradient>
         <linearGradient
           id="paint7_linear"
@@ -248,8 +248,8 @@ const AbsenceIcon = ({ ...rest }: SVGProps<SVGSVGElement>) => {
           y2="10.3923"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#E23A7E" />
-          <stop offset="1" stop-color="#FFAC61" />
+          <stop stopColor="#E23A7E" />
+          <stop offset="1" stopColor="#FFAC61" />
         </linearGradient>
         <linearGradient
           id="paint8_linear"
@@ -259,8 +259,8 @@ const AbsenceIcon = ({ ...rest }: SVGProps<SVGSVGElement>) => {
           y2="35.4267"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#F9DD7A" />
-          <stop offset="1" stop-color="#FFFCF2" />
+          <stop stopColor="#F9DD7A" />
+          <stop offset="1" stopColor="#FFFCF2" />
         </linearGradient>
       </defs>
     </svg>

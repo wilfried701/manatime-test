@@ -3,7 +3,7 @@ import AbsenceTable from "../molecules/AbsenceTable";
 
 const AbsencePage = () => {
   return (
-    <Box p="30px">
+    <Box p="30px" w="full">
       <AbsenceTable />
     </Box>
   );

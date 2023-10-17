@@ -18,12 +18,17 @@ type AbsenceTableLineProps = {
   item: User;
   number: number;
   length: number;
+  onRemove: () => void;
 };
 
-const AbsenceTableLine = ({ item, number, length }: AbsenceTableLineProps) => {
+const AbsenceTableLine = ({
+  item,
+  number,
+  length,
+  onRemove,
+}: AbsenceTableLineProps) => {
   const white = number % 2 !== 0;
   const lastElement = number === length - 1;
-  console.log(number, length);
   return (
     <Flex
       background={white ? "white" : "#F2F2F2"}
@@ -66,7 +71,7 @@ const AbsenceTableLine = ({ item, number, length }: AbsenceTableLineProps) => {
         justify="space-around"
       >
         <AjustIcon width="32px" />
-        <SolderIcon width="32px" />
+        <SolderIcon width="32px" onClick={onRemove} cursor="pointer" />
         <TransferIcon width="32px" />
       </Flex>
     </Flex>

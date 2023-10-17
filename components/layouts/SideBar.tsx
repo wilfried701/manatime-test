@@ -20,6 +20,7 @@ const SideBar = () => {
         direction="column"
         zIndex={3}
         position="relative"
+        boxShadow="md"
       >
         <Center py="17px">
           <BurgerIcon

@@ -18,6 +18,7 @@ const CollapseMenuGroup = ({ elements }: CollapseMenuGroupPropsType) => {
         <MenuItemAccordion
           icon={<element.icon width="22px" />}
           subItems={element.subItems}
+          key={element.item}
         >
           {element.item}
         </MenuItemAccordion>

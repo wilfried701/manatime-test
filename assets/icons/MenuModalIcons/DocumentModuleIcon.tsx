@@ -21,15 +21,15 @@ const DocumentModuleIcon = ({ ...rest }: SVGProps<SVGSVGElement>) => {
         fill="#EE8858"
       />
       <path
-        fill-rule="evenodd"
-        clip-rule="evenodd"
+        fillRule="evenodd"
+        clipRule="evenodd"
         d="M86 63.5297L83.4553 92.1878H59.8826L63.3914 63.5297H86ZM84.6119 64.8L82.2928 90.9175H61.3179L64.5157 64.8H84.6119Z"
         fill="#31305B"
       />
       <path d="M45.8789 38H82.0323V88.5559H45.8789V38Z" fill="#E5E5E5" />
       <path
-        fill-rule="evenodd"
-        clip-rule="evenodd"
+        fillRule="evenodd"
+        clipRule="evenodd"
         d="M80.762 39.2703H47.1492V87.2856H80.762V39.2703ZM45.8789 38V88.5559H82.0323V38H45.8789Z"
         fill="#31305B"
       />
@@ -38,26 +38,26 @@ const DocumentModuleIcon = ({ ...rest }: SVGProps<SVGSVGElement>) => {
         fill="white"
       />
       <path
-        fill-rule="evenodd"
-        clip-rule="evenodd"
+        fillRule="evenodd"
+        clipRule="evenodd"
         d="M78.7038 41.3278H45.0911V89.3431H78.7038V41.3278ZM43.8208 40.0575V90.6134H79.9742V40.0575H43.8208Z"
         fill="#31305B"
       />
       <path
-        fill-rule="evenodd"
-        clip-rule="evenodd"
+        fillRule="evenodd"
+        clipRule="evenodd"
         d="M48.2251 53.2844C48.2251 53.109 48.3673 52.9668 48.5427 52.9668L75.2714 52.9668C75.4468 52.9668 75.589 53.109 75.589 53.2844C75.589 53.4598 75.4468 53.602 75.2714 53.602L48.5427 53.602C48.3673 53.602 48.2251 53.4598 48.2251 53.2844Z"
         fill="#E5E5E5"
       />
       <path
-        fill-rule="evenodd"
-        clip-rule="evenodd"
+        fillRule="evenodd"
+        clipRule="evenodd"
         d="M48.1953 51.2032C48.1953 51.0278 48.3375 50.8856 48.5129 50.8856H63.047C63.2224 50.8856 63.3646 51.0278 63.3646 51.2032C63.3646 51.3786 63.2224 51.5208 63.047 51.5208H48.5129C48.3375 51.5208 48.1953 51.3786 48.1953 51.2032Z"
         fill="#E5E5E5"
       />
       <path
-        fill-rule="evenodd"
-        clip-rule="evenodd"
+        fillRule="evenodd"
+        clipRule="evenodd"
         d="M47.6421 68.9697C47.6421 68.7943 47.7843 68.6521 47.9597 68.6521H73.4843C73.6597 68.6521 73.8018 68.7943 73.8018 68.9697C73.8018 69.1451 73.6597 69.2873 73.4843 69.2873H47.9597C47.7843 69.2873 47.6421 69.1451 47.6421 68.9697Z"
         fill="#989898"
       />
@@ -66,38 +66,38 @@ const DocumentModuleIcon = ({ ...rest }: SVGProps<SVGSVGElement>) => {
         fill="#E5E5E5"
       />
       <path
-        fill-rule="evenodd"
-        clip-rule="evenodd"
+        fillRule="evenodd"
+        clipRule="evenodd"
         d="M49.7929 63.0887H40L41.8204 92.1878H83.1492L81.6009 67.4369H51.6725C50.8583 67.4369 50.176 66.821 50.0929 66.0111L49.7929 63.0887Z"
         fill="url(#paint0_linear)"
       />
       <path
-        fill-rule="evenodd"
-        clip-rule="evenodd"
+        fillRule="evenodd"
+        clipRule="evenodd"
         d="M40 63.0887L41.8204 92.1878H83.1492L81.6009 67.4369H51.6725C50.8583 67.4369 50.176 66.821 50.0929 66.0111L49.7929 63.0887H40ZM41.3523 64.3591L43.0137 90.9175H81.797L80.4075 68.7072H51.6725C50.2069 68.7072 48.9788 67.5987 48.8292 66.1408L48.6463 64.3591H41.3523Z"
         fill="#31305B"
       />
       <path
-        fill-rule="evenodd"
-        clip-rule="evenodd"
+        fillRule="evenodd"
+        clipRule="evenodd"
         d="M48.7017 45.374C48.4061 45.7592 48.2305 46.2412 48.2305 46.7642C48.2305 48.0266 49.2538 49.0499 50.5162 49.0499C51.7786 49.0499 52.8019 48.0266 52.8019 46.7642C52.8019 46.239 52.6248 45.7552 52.3271 45.3693L50.512 47.1844L48.7017 45.374Z"
         fill="url(#paint1_linear)"
       />
       <path
-        fill-rule="evenodd"
-        clip-rule="evenodd"
+        fillRule="evenodd"
+        clipRule="evenodd"
         d="M52.3198 44.9406L50.5047 46.7557L48.6943 44.9454C49.1121 44.4009 49.7695 44.0498 50.5089 44.0498C51.2461 44.0498 51.9018 44.3988 52.3198 44.9406Z"
         fill="url(#paint2_linear)"
       />
       <path
-        fill-rule="evenodd"
-        clip-rule="evenodd"
+        fillRule="evenodd"
+        clipRule="evenodd"
         d="M76.5148 40.2865C76.5148 40.1111 76.3726 39.9689 76.1972 39.9689H73.238C73.0626 39.9689 72.9204 40.1111 72.9204 40.2865V45.8021C72.9204 46.0927 73.2785 46.2307 73.4735 46.0152L74.4609 44.9239C74.587 44.7845 74.8058 44.7845 74.9319 44.9239L75.9617 46.062C76.1567 46.2776 76.5148 46.1396 76.5148 45.849V40.2865Z"
         fill="#C63636"
       />
       <path
-        fill-rule="evenodd"
-        clip-rule="evenodd"
+        fillRule="evenodd"
+        clipRule="evenodd"
         d="M72.603 40.2864C72.603 39.9356 72.8874 39.6512 73.2382 39.6512H76.1974C76.5482 39.6512 76.8325 39.9356 76.8325 40.2864V45.8489C76.8325 46.4302 76.1164 46.7061 75.7264 46.2751L74.6966 45.1369L73.7092 46.2282C73.3192 46.6592 72.603 46.3833 72.603 45.802V40.2864ZM76.1974 40.2864L73.2382 40.2864V45.802L74.2256 44.7108C74.4777 44.4321 74.9154 44.4321 75.1675 44.7108L76.1974 45.8489V40.2864Z"
         fill="#31305B"
       />

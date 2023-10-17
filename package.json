@@ -13,10 +13,12 @@
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
     "@fontsource/poppins": "^5.0.8",
+    "chakra-react-select": "^4.7.4",
     "framer-motion": "^10.16.4",
     "next": "13.5.5",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "react-hook-form": "^7.47.0"
   },
   "devDependencies": {
     "@types/node": "^20",

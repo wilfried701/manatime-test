@@ -54,6 +54,7 @@ const MenuItemAccordion = ({
             mr="15px"
             fontSize="16px"
             mb={1}
+            key={subItem}
           >
             {subItem}
           </Text>

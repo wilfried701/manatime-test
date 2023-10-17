@@ -7,7 +7,13 @@ type CustomButtonProps = {
 
 const CustomButton = ({ children, ...rest }: CustomButtonProps) => {
   return (
-    <Button background="blue" {...rest}>
+    <Button
+      background="brand.100"
+      color="white"
+      rounded="md"
+      _hover={{ background: "blue.600" }}
+      {...rest}
+    >
       {children}
     </Button>
   );
