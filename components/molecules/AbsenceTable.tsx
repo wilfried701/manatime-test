@@ -33,7 +33,7 @@ const AbsenceTable = () => {
       setTable(JSON.parse(storedAbsences));
     }
   }, []);
-  const [table, setTable] = useState([]);
+  const [table, setTable] = useState<any[]>([]);
   const {
     register,
     handleSubmit,
@@ -45,7 +45,7 @@ const AbsenceTable = () => {
     setIsDuplicate(false);
     const { user, category, period } = data;
     const isDuplicate = table.some(
-      (absence) =>
+      (absence: any) =>
         absence.user === user.label &&
         absence.category === category &&
         absence.period === period
@@ -193,7 +193,7 @@ const AbsenceTable = () => {
       ))}
       {!table.length && (
         <Flex justify="center" align="center" h="80px">
-          <Text>Aucune absence n'a été ajoutée</Text>
+          <Text>Aucune absence n&apos;a été ajoutée</Text>
         </Flex>
       )}
     </Box>

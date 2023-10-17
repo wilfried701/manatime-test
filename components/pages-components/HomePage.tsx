@@ -15,7 +15,7 @@ const HomePage = () => {
           <Image src="/logo.svg" alt="logo" width={200} mb={5} />
         </Center>
         <Text fontSize="30px" textAlign="center" mb={3}>
-          Bye bye le papier, bonjour l'
+          Bye bye le papier, bonjour l&apos;
           <Box as="span" color="brand.100">
             efficacité
           </Box>{" "}
@@ -33,7 +33,7 @@ const HomePage = () => {
             _hover={{ background: "blue.600" }}
             onClick={handleClick}
           >
-            Acceder à l'apllication
+            Acceder à l&apos;apllication
           </CustomButton>
         </Center>
       </Box>

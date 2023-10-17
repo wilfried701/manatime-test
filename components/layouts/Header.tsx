@@ -38,7 +38,7 @@ const Header = () => {
             Entreprise
           </Text>
         </Box>
-        <Image my="12px" mx="30px" width="42px" height="42px" src={image.src} />
+        <Image my="12px" mx="30px" width="42px" height="42px" alt="avatar" src={image.src} />
       </Flex>
     </Flex>
   );
