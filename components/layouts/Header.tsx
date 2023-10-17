@@ -2,7 +2,7 @@ import AbsenceIcon from "@/assets/icons/AbsenceIcon";
 import HelpIcon from "@/assets/icons/HelpIcon";
 import SettingsIcon from "@/assets/icons/SettingsIcon";
 import { Box, Flex, Heading, Image, Text } from "@chakra-ui/react";
-import image from "@/assets/images/Photo.png";
+import image from "@/assets/images/photo.png";
 import StripeTwoIcon from "@/assets/icons/StripeTwoIcon";
 import Breadcrumb from "../atoms/Breadcrumb";
 import SoldeIcon from "@/assets/icons/SoldeIcon";
