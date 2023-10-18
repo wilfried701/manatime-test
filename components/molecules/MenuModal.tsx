@@ -8,7 +8,7 @@ const MenuModal = () => {
   const [activeElement, setActiveElement] = useState<number | null>(null);
   return (
     <Box mx="47px">
-      <Center mt={20} mb={5}>
+      <Center mt={12} mb={5}>
         <Image src="/logo.svg" alt="logo" width={200} mb={5} />
       </Center>
       <SimpleGrid columns={4} spacing="6px">

@@ -69,7 +69,7 @@ const SideBar = () => {
               transition={{ duration: 0.3 }}
               zIndex={2}
               top="0"
-              h="100vh"
+              minH="100vh"
               opacity={1}
               background="white"
               pl={"200px"}

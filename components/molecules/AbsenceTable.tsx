@@ -181,21 +181,40 @@ const AbsenceTable = () => {
           </ModalBody>
         </ModalContent>
       </Modal>
-      <AbsenceTableheader />
-      {table?.map((item, index) => (
-        <AbsenceTableLine
-          key={index}
-          item={item}
-          number={index}
-          length={table.length}
-          onRemove={() => handleRemoveAbsence(index)}
-        />
-      ))}
-      {!table.length && (
-        <Flex justify="center" align="center" h="80px">
-          <Text>Aucune absence n&apos;a été ajoutée</Text>
-        </Flex>
-      )}
+      <Box
+        overflowX="auto"
+        sx={{
+          "&::-webkit-scrollbar": {
+            height: "16px",
+          },
+          "&::-webkit-scrollbar-track": {
+            background: "#f7f7fb",
+          },
+          "&::-webkit-scrollbar-thumb": {
+            backgroundColor: "#3182ce",
+            borderRadius: "10px",
+            border: "2px solid #ffffff",
+          },
+        }}
+      >
+        <Box minW="700px">
+          <AbsenceTableheader />
+          {table?.map((item, index) => (
+            <AbsenceTableLine
+              key={index}
+              item={item}
+              number={index}
+              length={table.length}
+              onRemove={() => handleRemoveAbsence(index)}
+            />
+          ))}
+          {!table.length && (
+            <Flex justify="center" align="center" h="80px">
+              <Text>Aucune absence n&apos;a été ajoutée</Text>
+            </Flex>
+          )}
+        </Box>
+      </Box>
     </Box>
   );
 };

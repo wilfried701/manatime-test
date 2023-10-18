@@ -1,18 +1,35 @@
 import { Box, Center, Flex, Heading, Image, Text } from "@chakra-ui/react";
 import CustomButton from "../atoms/Button";
 import { useRouter } from "next/router";
+import { useEffect } from "react";
+import { table } from "@/utils/fakeDatas";
 
 const HomePage = () => {
   const router = useRouter();
+  useEffect(() => {
+    const initialised = localStorage.getItem("init");
+    console.log(initialised);
+    if (!initialised) {
+      localStorage.setItem("absences", JSON.stringify(table));
+      localStorage.setItem("init", "true");
+    }
+  }, []);
   const handleClick = () => {
     router.push("/absence");
   };
 
   return (
-    <Flex h="100vh" direction="column" justify="center" align="center" pb={10}>
+    <Flex
+      h="100vh"
+      direction="column"
+      justify="center"
+      align="center"
+      pb={10}
+      p={3}
+    >
       <Box>
         <Center>
-          <Image src="/logo.svg" alt="logo" width={200} mb={5} />
+          <Image src="/logo.svg" alt="logo" width={260} mb={5} />
         </Center>
         <Text fontSize="30px" textAlign="center" mb={3}>
           Bye bye le papier, bonjour l&apos;
